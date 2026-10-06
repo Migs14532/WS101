@@ -1,0 +1,14 @@
+/setup-matt-
+
+local markdown
+
+keep default
+
+AGENTS.md
+
+Approve Plan
+
+/grill-with-docs (plano sa imong system nga buhaton) vanilla js use localstorage 
+/to-spec
+/to-tickets
+/implement
